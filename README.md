@@ -3,6 +3,9 @@ supply-chain-DApp
 
 This [React] app was initialized with [create-near-app]
 
+## Description
+Manage produce form farm to market to end products
+
 
 Quick Start
 ===========
